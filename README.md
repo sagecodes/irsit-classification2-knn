@@ -1,6 +1,6 @@
 # Iris Classifier 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sagecodes/irsit-classification2-knn/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sagecodes/irsit-classification2-knn/master) *note* Dataset is not hosted in repo. You must link if you'd like to run yourself.
 
 
 ## About:
