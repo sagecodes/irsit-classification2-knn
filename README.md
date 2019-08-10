@@ -33,7 +33,7 @@ Predict Species of Iris given 4 feature measurments
 - [Scikit Learn](https://scikit-learn.org/stable/)
 - [Pandas](https://pandas.pydata.org/)
 - [matplotlib](https://matplotlib.org/)
-- [numpy](https://www.numpy.org/)
+<!--- [numpy](https://www.numpy.org/)-->
 - [seaborn](https://seaborn.pydata.org/)
 
 #### Resources:
