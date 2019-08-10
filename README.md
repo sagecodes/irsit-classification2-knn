@@ -1,28 +1,42 @@
 # Iris Classifier 
 
-### About:
-
-I did this project / case study for phase 1 of my [100 days of machine learning code](https://sageelliott.com/100daysofmlcode/) challenge. 
-
-This is a homework solution to a section in [Machine Learning Classification Bootcamp in Python](https://www.udemy.com/machine-learning-classification).
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sagecodes/irsit-classification2-knn/master)
 
 
-#### Technology used:
+## About:
 
-##### Model(s): 
+This project / case study is for phase 1 of my [100 days of machine learning code](https://sageelliott.com/100daysofmlcode/) challenge. 
 
-##### Libraries:
+#### Problem Statement:
+
+Predict Species of Iris given 4 feature measurments
+
+- Sepal Length (cm)
+- Sepal Width (cm)
+- Petal Length (cm)
+- Petal Width (cm)
+
+
+
+## Technology used:
+
+#### Model(s): 
+
+#### Dataset(s):
+
+- The famous [Iris dataset](https://www.kaggle.com/uciml/iris)
+
+#### Libraries:
+
 - [Scikit Learn](https://scikit-learn.org/stable/)
 - [Pandas](https://pandas.pydata.org/)
 - [matplotlib](https://matplotlib.org/)
 - [numpy](https://www.numpy.org/)
 - [seaborn](https://seaborn.pydata.org/)
 
-##### Dataset(s):
+#### Resources:
 
-- The famous [Iris dataset](https://www.kaggle.com/uciml/iris)
-
-#### Helpful Resources:
+This is a homework solution to a section in [Machine Learning Classification Bootcamp in Python](https://www.udemy.com/machine-learning-classification).
 
 #### Contact:
 
